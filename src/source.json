@@ -1,0 +1,42 @@
+[{  
+    "id": 1,
+    "imgSrc": "img-1.jfif",
+    "title" : " First-image",
+    "names" : "Watermelon"
+},
+{ 
+    "id": 2,
+    "imgSrc" : "img-2.jpg",
+    "title" : "Second-image",
+    "names" : "Orange"
+},
+{
+    "id": 3,
+    "imgSrc" : "img-3.webp",
+   "title" : "Third-image",
+    "names" : "Apple" 
+},
+{
+    "id": 4,
+    "imgSrc" : "img-4.jpg",
+    "title" : "Fourth-image",
+    "names" : "Fruit-Basket"
+},
+{ 
+    "id": 5,
+    "imgSrc" : "img-5.webp",
+    "title" : "Fifth-image",
+    "names" : "Fruit Spread"
+},
+{
+    "id": 6,
+    "imgSrc" : "img-6.jpg",
+    "title" : "Sixth-image",
+    "names" : "DragonFruit"
+},
+{
+    "id": 7,
+    "imgSrc" : "img-7.jpeg",
+    "title" : "Seventh-image",
+    "names" : "Fruit- Platter"
+}]
